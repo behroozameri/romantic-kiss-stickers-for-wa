@@ -1,0 +1,1465 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.kavirkade.romantickissstickers",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+
+    {
+      "identifier": "1",
+      "name": "Romantic Kiss pack 1",
+      "publisher": "ßpzöne",
+      "tray_image_file": "a_2.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "behrooz.ameri@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "a_2.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },{
+          "image_file": "a_4.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_6.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_7.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_8.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_9.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_10.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_13.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_14.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_17.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_18.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_20.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_22.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_24.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_25.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_26.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_28.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_29.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Romantic Kiss pack 2",
+      "publisher": "ßpzöne",
+      "tray_image_file": "a_1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "behrooz.ameri@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "a_1.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },{
+          "image_file": "a_2.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },{
+          "image_file": "a_3.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },{
+          "image_file": "a_4.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },{
+          "image_file": "a_5.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_6.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_7.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_8.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_9.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_10.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_11.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_12.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_13.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_14.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_15.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_16.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_17.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_18.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_19.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_20.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_21.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_22.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_23.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_24.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_25.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_26.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_27.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Romantic Kiss pack 3",
+      "publisher": "ßpzöne",
+      "tray_image_file": "a_1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "behrooz.ameri@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "a_1.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },{
+          "image_file": "a_2.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },{
+          "image_file": "a_3.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },{
+          "image_file": "a_4.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },{
+          "image_file": "a_5.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_6.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_7.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_8.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_9.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_10.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_11.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_12.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_13.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_14.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_15.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_16.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_17.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_18.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_19.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_20.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_21.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_22.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_23.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_24.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_25.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Romantic Kiss pack 4",
+      "publisher": "ßpzöne",
+      "tray_image_file": "a_1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "behrooz.ameri@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "a_1.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },{
+          "image_file": "a_2.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },{
+          "image_file": "a_3.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },{
+          "image_file": "a_4.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },{
+          "image_file": "a_5.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_6.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_7.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_8.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_9.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_10.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_11.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_12.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_13.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_14.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_15.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_16.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_17.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_18.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_19.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_20.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_21.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_22.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_23.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_24.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "a_25.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        }
+      ]
+    },
+	      {
+      "identifier": "5",
+      "name": "Romantic Kiss pack 5",
+      "publisher": "ßpzöne",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "behrooz.ameri@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "ðŸ˜†",
+            "ðŸ˜‚"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "ðŸ˜­",
+            "ðŸ’§"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "ðŸ˜",
+            "â™¥"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "ðŸ’”",
+            "ðŸ‘Ž"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "ðŸ˜",
+            "ðŸ’‘"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "ðŸ˜±",
+            "ðŸ˜µ"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "ðŸ˜¡",
+            "ðŸ˜ "
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "â“",
+            "ðŸ¤”"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "ðŸŒˆ",
+            "ðŸ˜œ"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Romantic Kiss pack 6",
+      "publisher": "ßpzöne",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "behrooz.ameri@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "ðŸ˜†",
+            "ðŸ˜‚"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "ðŸ˜­",
+            "ðŸ’§"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "ðŸ˜",
+            "â™¥"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "ðŸ’”",
+            "ðŸ‘Ž"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "ðŸ˜",
+            "ðŸ’‘"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "ðŸ˜±",
+            "ðŸ˜µ"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "ðŸ˜¡",
+            "ðŸ˜ "
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "â“",
+            "ðŸ¤”"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "ðŸŒˆ",
+            "ðŸ˜œ"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Romantic Kiss pack 7",
+      "publisher": "ßpzöne",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "behrooz.ameri@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "ðŸ˜†",
+            "ðŸ˜‚"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "ðŸ˜­",
+            "ðŸ’§"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "ðŸ˜",
+            "â™¥"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "ðŸ’”",
+            "ðŸ‘Ž"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "ðŸ˜",
+            "ðŸ’‘"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "ðŸ˜±",
+            "ðŸ˜µ"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "ðŸ˜¡",
+            "ðŸ˜ "
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "â“",
+            "ðŸ¤”"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Romantic Kiss pack 8",
+      "publisher": "ßpzöne",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "behrooz.ameri@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "ðŸ˜†",
+            "ðŸ˜‚"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "ðŸ˜­",
+            "ðŸ’§"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "ðŸ˜",
+            "â™¥"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "ðŸ’”",
+            "ðŸ‘Ž"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "ðŸ˜",
+            "ðŸ’‘"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "ðŸ˜±",
+            "ðŸ˜µ"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "ðŸ˜¡",
+            "ðŸ˜ "
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "â“",
+            "ðŸ¤”"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "ðŸŒˆ",
+            "ðŸ˜œ"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Romantic Kiss pack 9",
+      "publisher": "ßpzöne",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "behrooz.ameri@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "ðŸ˜„",
+            "ðŸ˜€"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "ðŸ˜†",
+            "ðŸ˜‚"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "ðŸ˜­",
+            "ðŸ’§"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "ðŸ˜",
+            "â™¥"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "ðŸ’”",
+            "ðŸ‘Ž"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "ðŸ˜",
+            "ðŸ’‘"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "ðŸ˜±",
+            "ðŸ˜µ"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "ðŸ˜¡",
+            "ðŸ˜ "
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "â“",
+            "ðŸ¤”"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "ðŸŒˆ",
+            "ðŸ˜œ"
+          ]
+        }
+      ]
+    },
+	{
+    "identifier": "10",
+    "name": "Romantic Kiss pack 10",
+    "publisher": "ßpzöne",
+    "tray_image_file": "1.webp",
+    "image_data_version": "1",
+    "avoid_cache": false,
+      "publisher_email": "behrooz.ameri@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+    "animated_sticker_pack": false,
+    "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+      {
+        "image_file": "11.webp",
+        "emojis": [
+          "🤔",
+          "😐"
+        ]
+      },
+      {
+        "image_file": "12.webp",
+        "emojis": [
+          "🤔",
+          "😐"
+        ]
+      },
+      {
+        "image_file": "13.webp",
+        "emojis": [
+          "🤔",
+          "😐"
+        ]
+      }
+      ]
+    },
+	{
+      "identifier": "11",
+      "name": "Romantic Kiss pack 11",
+      "publisher": "ßpzöne",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "behrooz.ameri@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        }
+      ]
+    },
+	{
+      "identifier": "12",
+      "name": "Romantic Kiss pack 12",
+      "publisher": "ßpzöne",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "behrooz.ameri@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        }
+      ]
+    },
+	{
+      "identifier": "13",
+      "name": "Romantic Kiss pack 13",
+      "publisher": "ßpzöne",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "behrooz.ameri@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        }
+      ]
+    },
+	{
+      "identifier": "14",
+      "name": "Romantic Kiss pack 14",
+      "publisher": "ßpzöne",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+     "avoid_cache": false,
+      "publisher_email": "behrooz.ameri@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        }
+      ]
+    },
+	{
+      "identifier": "15",
+      "name": "Romantic Kiss pack 15",
+      "publisher": "ßpzöne",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "behrooz.ameri@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        }
+      ]
+    }
+  ]
+}

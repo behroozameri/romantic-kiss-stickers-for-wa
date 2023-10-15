@@ -1,0 +1,84 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+
+android {
+
+    namespace "com.bpzone.romantickissstickers"
+
+    buildFeatures {
+        buildConfig = true
+    }
+
+    aaptOptions {
+        noCompress "webp"
+    }
+    compileSdkVersion 33
+    defaultConfig {
+        applicationId "com.bpzone.romantickissstickers"
+        minSdkVersion 19
+        //noinspection OldTargetApi
+        targetSdkVersion 33
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        def contentProviderAuthority = applicationId + ".stickercontentprovider"
+        manifestPlaceholders =[contentProviderAuthority: contentProviderAuthority]
+        buildConfigField("String","CONTENT_PROVIDER_AUTHORITY", "\"${contentProviderAuthority}\"")
+        buildConfigField("int","ShowAdMob", "0")
+
+    }
+
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+            shrinkResources false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        release {
+            signingConfig signingConfigs.release
+            debuggable false
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility = '1.8'
+        targetCompatibility = '1.8'
+    }
+
+    packagingOptions {
+        exclude 'lib/*/libnative-imagetranscoder.so'
+        exclude 'lib/*/libnative-filters.so'
+    }
+
+}
+
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.android.support:design:33.0.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    def fresco_version = '2.6.0'
+    implementation "com.facebook.fresco:fresco:$fresco_version"
+    implementation "com.facebook.fresco:webpsupport:$fresco_version"
+    implementation "com.facebook.fresco:animated-webp:$fresco_version"
+    implementation "com.facebook.fresco:animated-base:$fresco_version"
+
+
+    // Import the Firebase BoM
+    implementation platform('com.google.firebase:firebase-bom:32.3.1')
+    implementation 'com.google.firebase:firebase-analytics'
+    implementation 'com.google.firebase:firebase-messaging'
+
+
+
+    //-- Admob
+    implementation 'com.google.android.gms:play-services-ads:22.4.0'
+
+    implementation 'com.google.android.play:core:1.10.3'
+
+}
